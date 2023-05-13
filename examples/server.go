@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	echoserver "github.com/dasjott/oauth2-echo-server"
+	echoserver "github.com/daugminas/oauth2-echo-server"
 	"github.com/go-oauth2/oauth2/v4/manage"
 	"github.com/go-oauth2/oauth2/v4/models"
 	"github.com/go-oauth2/oauth2/v4/server"
